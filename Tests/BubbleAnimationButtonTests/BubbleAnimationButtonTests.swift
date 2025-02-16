@@ -1,3 +1,7 @@
+//  Copyright (c) 2025 resans0725
+//  This software is released under the MIT License.
+//  See LICENSE file for details.
+
 import Testing
 import SwiftUI
 import BubbleAnimationButton

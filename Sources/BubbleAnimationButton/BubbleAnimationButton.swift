@@ -1,6 +1,10 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 
+//  Copyright (c) 2025 resans0725
+//  This software is released under the MIT License.
+//  See LICENSE file for details.
+
 import SwiftUI
 
 public struct BubbleAnimationButton: View {

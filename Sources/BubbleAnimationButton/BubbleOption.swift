@@ -2,7 +2,9 @@
 //  BubbleOption.swift
 //  BubbleAnimationButton
 //
-//  Created by 永井涼 on 2025/02/16.
+//  Copyright (c) 2025 resans0725
+//  This software is released under the MIT License.
+//  See LICENSE file for details.
 //
 
 import SwiftUI

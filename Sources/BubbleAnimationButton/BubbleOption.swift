@@ -2,7 +2,7 @@
 //  BubbleOption.swift
 //  BubbleAnimationButton
 //
-//  Copyright (c) 2025 resans0725
+//  Copyright (c) 2025 Resan
 //  This software is released under the MIT License.
 //  See LICENSE file for details.
 //

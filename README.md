@@ -2,6 +2,9 @@
 
 BubbleAnimationButton is a SwiftUI package that provides an animated button, which expands to reveal multiple options in a bubble-like animation. It's highly customizable and easy to integrate into your iOS app.
 
+![BubbleAnimationButton Demo](https://github.com/resans0725/Bubble-Animation-Button-For-SwiftUI/blob/main/sample.gif)
+
+
 ## 📦 Installation
 
 ### Using Swift Package Manager (SPM)
